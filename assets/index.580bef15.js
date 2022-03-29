@@ -1,0 +1,1 @@
+import{g as e,I as o,o as r}from"./vendor.a15cc7ad.js";const s={created(){}},l=Object.assign(s,{setup(a){const t=o();return t.getters.rootState,t.getters["tmp/framework"],(c,n)=>(r(),e("div",null,"root views test"))}});export{l as default};
