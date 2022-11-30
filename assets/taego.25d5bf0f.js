@@ -1,0 +1,1 @@
+import{c as a,s as o}from"./MapCard.9c09a934.js";import{d as s,b as t,e as c,u as r,a as n}from"./index.fc04dfa3.js";const m={class:"main"},d=s({__name:"taego",setup(u){const e=o.split("taego-car=");return(_,i)=>(n(),t("div",m,[c(a,{imgName:"taego-car",source:r(e)[1]},null,8,["source"])]))}});export{d as default};

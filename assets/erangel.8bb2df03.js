@@ -1,0 +1,1 @@
+import{c as a,s as r}from"./MapCard.9c09a934.js";import{d as s,b as c,e as n,u as o,a as t}from"./index.fc04dfa3.js";const l={class:"main"},d=s({__name:"erangel",setup(m){const e=r.split("erangel-car=");return(u,_)=>(t(),c("div",l,[n(a,{imgName:"erangel-car",source:o(e)[1]},null,8,["source"])]))}});export{d as default};
